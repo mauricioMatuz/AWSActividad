@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "Cien anios de Soledad",
+    "author": "Gabriel García Márquez",
+    "price": "$556"
+  },
+  {
+    "id": 2,
+    "title": "El padre",
+    "author": "Reyes Ramírez",
+    "price": "$700"
+  },
+  {
+    "id": 3,
+    "title": "El niño con el pijama de rayas",
+    "author": "John Boyne",
+    "price": "$850"
+  },
+  {
+    "id": 4,
+    "title": "El principito",
+    "author": "Antoine de Saint-Exupéry",
+    "price": "$200"
+  }
+]
